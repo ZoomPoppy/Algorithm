@@ -1,4 +1,4 @@
-package com.zz.homework.chapter_2;
+package com.zz.homework.面试题;
 
 import java.util.Scanner;
 
